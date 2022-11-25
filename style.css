@@ -50,6 +50,7 @@ p {
     flex-wrap: wrap;
     width: 100%;
     margin: 0px;
+    justify-content: center; 
 }
 
 article {
